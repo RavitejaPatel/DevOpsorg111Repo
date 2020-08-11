@@ -1,2 +1,2 @@
 # DevOpsorg111Repo
-repo for azure DevOps
+repo for Azure DevOps
